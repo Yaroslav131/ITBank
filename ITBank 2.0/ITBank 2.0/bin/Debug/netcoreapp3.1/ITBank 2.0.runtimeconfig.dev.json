@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\berse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\berse\\.nuget\\packages"
+    ]
+  }
+}
