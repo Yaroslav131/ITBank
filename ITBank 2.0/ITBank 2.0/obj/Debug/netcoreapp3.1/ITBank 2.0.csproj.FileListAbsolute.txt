@@ -11,3 +11,6 @@ D:\.NET\ДЗ\ITBank 2.0\ITBank 2.0\obj\Debug\netcoreapp3.1\ITBank 2.0.csproj.Cor
 D:\.NET\ДЗ\ITBank 2.0\ITBank 2.0\obj\Debug\netcoreapp3.1\ITBank 2.0.dll
 D:\.NET\ДЗ\ITBank 2.0\ITBank 2.0\obj\Debug\netcoreapp3.1\ITBank 2.0.pdb
 D:\.NET\ДЗ\ITBank 2.0\ITBank 2.0\obj\Debug\netcoreapp3.1\ITBank 2.0.genruntimeconfig.cache
+D:\.NET\ДЗ\ITBank 2.0\ITBank 2.0\bin\Debug\netcoreapp3.1\Classes.dll
+D:\.NET\ДЗ\ITBank 2.0\ITBank 2.0\bin\Debug\netcoreapp3.1\Classes.pdb
+D:\.NET\ДЗ\ITBank 2.0\ITBank 2.0\obj\Debug\netcoreapp3.1\ITBank 2.0.csproj.CopyComplete

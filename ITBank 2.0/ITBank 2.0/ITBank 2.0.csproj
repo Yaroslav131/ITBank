@@ -6,4 +6,8 @@
     <RootNamespace>ITBank_2._0</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Classes\Classes.csproj" />
+  </ItemGroup>
+
 </Project>

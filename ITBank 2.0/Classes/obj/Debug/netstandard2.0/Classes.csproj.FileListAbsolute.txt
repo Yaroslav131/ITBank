@@ -1,0 +1,9 @@
+D:\.NET\ДЗ\ITBank 2.0\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+D:\.NET\ДЗ\ITBank 2.0\Classes\bin\Debug\netstandard2.0\Classes.dll
+D:\.NET\ДЗ\ITBank 2.0\Classes\bin\Debug\netstandard2.0\Classes.pdb
+D:\.NET\ДЗ\ITBank 2.0\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+D:\.NET\ДЗ\ITBank 2.0\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+D:\.NET\ДЗ\ITBank 2.0\Classes\obj\Debug\netstandard2.0\Classes.csproj.CoreCompileInputs.cache
+D:\.NET\ДЗ\ITBank 2.0\Classes\obj\Debug\netstandard2.0\Classes.dll
+D:\.NET\ДЗ\ITBank 2.0\Classes\obj\Debug\netstandard2.0\Classes.pdb
+D:\.NET\ДЗ\ITBank 2.0\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
